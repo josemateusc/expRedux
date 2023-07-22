@@ -1,4 +1,7 @@
 {
+  "files":[
+    "./node_modules/redux-persist/types/storage/index.d.ts"
+  ],
   "compilerOptions": {
     "target": "es5",
     "lib": [
